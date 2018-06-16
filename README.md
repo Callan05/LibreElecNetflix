@@ -13,8 +13,14 @@ sh ./step1.sh
 
 
 
-ideas:
-A single file to call from a CLI of a Linux/macOS terminal, asking for the IP of the Libreelec host and the new root password
+## ideas/to-do
+* Change timezone
+* Change Root Password
+* Change hostname
+* setup default credentials from secure store (or input on cli)
+* setup default folder shares from secure store
+
+### A single file to call from a CLI of a Linux/macOS terminal, asking for the IP of the Libreelec host and the new root password
 * Ask for inputs
 * connect to host, run step1
 * wait for reboot
